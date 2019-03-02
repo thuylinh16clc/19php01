@@ -1,0 +1,15 @@
+div#header {
+	  color:  red;
+	  height: 200px;
+	  border: 2px solid black;
+}
+div#content {
+	  color:  green;
+	  height: 500px;
+	  border: 2px dotted black;
+}
+div#footer{
+	color:  blue;
+	height: 100px;
+	border: 2px dashed black;
+}
